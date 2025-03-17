@@ -9,6 +9,8 @@ a new dataset was created by inverting the color of the original data to improve
 a neural network model implemented using 3 hidden layers with ReLU activation function and softmax for the output layer consisting of 10 outputs 0-9
 (the structure of the model can be changed and tweaked to try to get better accuracy)
 
+implemented a Convolutional Neural Network, for incresaing accuracy and identifictaion in case of new data (under development)
+
 A confusion matrix was used to identify the performance of the model in more detail.
 
 selected an individual number and predicted the output.
