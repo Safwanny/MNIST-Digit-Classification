@@ -1,5 +1,6 @@
 # MNIST-Digit-Classification
 Neural Network for detecting handwritten Digits using Deep Learning 
+Enhanced the model by changing NN to a Convolutional Neural network
 
 the MNIST data set is already preprocessed and is available in the TensorFlow dataset library
 
